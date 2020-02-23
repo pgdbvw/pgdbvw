@@ -4,7 +4,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 <!--[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=)-->
 
-<img src="https://github.com/pgdbvw/pgdbvw/wiki/images/pgdbvw-icon-64x64.png" align="right"/>
+<img src="https://raw.githubusercontent.com/pgdbvw/pgdbvw/master/images/pgdbvw-icon-64x64.png" align="right"/>
 
 # PostgreDb Viewer
 
@@ -15,10 +15,10 @@ Supports Postgre database in most popular platforms.
 * Based on <a href="https://wiki.postgresql.org/wiki/Psycopg2_Tutorial">psycopg2</a> and <a href="https://www.tornadoweb.org/en/stable/">Tornado Server</a> python 3.x.
 * Used <a href="https://docs.sencha.com/extjs/6.2.0/index.html">Ext JS</a> library.
 
-<a href="https://github.com/pgdbvw/pgdbvw/images/main.png"><img src="https://github.com/pgdbvw/pgdbvw/images/main.png" width="400"/></a>
-<a href="https://github.com/pgdbvw/pgdbvw/images/dbconnects.png"><img src="https://github.com/pgdbvw/pgdbvw/images/dbconnects.png" width="400"/></a>
-<a href="https://github.com/pgdbvw/pgdbvw/images/debugger.png"><img src="https://github.com/pgdbvw/pgdbvw/images/debugger.png" width="400"/></a>
-<a href="https://github.com/pgdbvw/pgdbvw/images/dbgsess.png"><img src="https://github.com/pgdbvw/pgdbvw/images/dbgsess.png" width="400"/></a>
+<a href="https://raw.githubusercontent.com/pgdbvw/pgdbvw/master/images/main.png"><img src="https://raw.githubusercontent.com/pgdbvw/pgdbvw/master/images/main.png" width="400"/></a>
+<a href="https://raw.githubusercontent.com/pgdbvw/pgdbvw/master/images/dbconnects.png"><img src="https://raw.githubusercontent.com/pgdbvw/pgdbvw/master/images/dbconnects.png" width="400"/></a>
+<a href="https://raw.githubusercontent.com/pgdbvw/pgdbvw/master/images/debugger.png"><img src="https://raw.githubusercontent.com/pgdbvw/pgdbvw/master/images/debugger.png" width="400"/></a>
+<a href="https://raw.githubusercontent.com/pgdbvw/pgdbvw/master/images/dbgsess.png"><img src="https://raw.githubusercontent.com/pgdbvw/pgdbvw/master/images/dbgsess.png" width="400"/></a>
 
 ## Download
 
@@ -65,7 +65,7 @@ You have nothing to do install additional libs or frameworks - only default brow
 
 ## Contribution: help the PgDbVw!
 
-- We are actively looking for new source code contributors. We have added labels ìGood first issueî and ìHelp wantedî to some tickets. If you want to be a part of our development team just be brave and take a ticket.
+- We are actively looking for new source code contributors. We have added labels ‚ÄúGood first issue‚Äù and ‚ÄúHelp wanted‚Äù to some tickets. If you want to be a part of our development team just be brave and take a ticket.
 
 Thank you!  
 
