@@ -42,9 +42,13 @@ PostgreDb Viewer (aka PgDbVw) written in pure js with <a href="https://github.co
 Install precompiled version and have fun.
 You have nothing to do install additional libs or frameworks - only default browser needed.
 ### Windows
-- pgdbvw.exe
+```sh
+pgdbvw.exe
+```
 ### Linux
-- /usr/local/sbin/pgdbvw
+```sh
+/usr/local/sbin/pgdbvw
+```
 
 ## Documentation
 
