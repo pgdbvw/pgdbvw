@@ -6,10 +6,10 @@
 
 <img src="https://raw.githubusercontent.com/pgdbvw/pgdbvw/master/images/pgdbvw-icon-64x64.png" align="right"/>
 
-# PostgreDb Viewer
+# Postgres Database Viewer
 
-Free multi-platform Postgre database tool for developers, SQL programmers, DB administrators.
-Supports Postgre database in most popular platforms.
+Free multi-platform PostgreSQL database tool for developers, SQL programmers, DB administrators.
+Supports Postgres in most popular browsers.
 
 * Has same base of features including SQL editor, data viewer, schema viewer, PostgreSQL debugger, etc.
 * Based on <a href="https://wiki.postgresql.org/wiki/Psycopg2_Tutorial">psycopg2</a> and <a href="https://www.tornadoweb.org/en/stable/">Tornado Server</a> python 3.x.
@@ -38,7 +38,7 @@ sudo dpkg -i pgdbvw_XXX_all.deb
 
 ## Running
 
-PostgreDb Viewer (aka PgDbVw) written in pure js with <a href="https://github.com/bjornharrtell/extjs">ExtJs</a> library and Pythons libs.
+PostgresDb Viewer (aka PgDbVw) written in pure js with <a href="https://github.com/bjornharrtell/extjs">ExtJs</a> library and Pythons libs.
 Install precompiled version and have fun.
 You have nothing to do install additional libs or frameworks - only default browser needed.
 ### Windows
