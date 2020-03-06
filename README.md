@@ -1,5 +1,5 @@
 <!--https://pandao.github.io/editor.md/en.html-->
-[![Release](https://img.shields.io/badge/release-v.1.0--1-yellow)](https://github.com/pgdbvw/pgdbvw/releases/tag/v1.0-1)
+[![Release](https://img.shields.io/badge/release-v.1.2--0beta-yellow)](https://github.com/pgdbvw/pgdbvw/releases/tag/v1.2-0)
 [![Ask on Telegram](https://img.shields.io/badge/ask-on%20Telegram-blue)](https://t.me/pgdbvw)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 <!--[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=)-->
@@ -27,11 +27,14 @@ You can download prebuilt binaries directly from <a href="https://github.com/pgd
 ## Install
 ### Windows
 
+- Download and install GIT for Windows https://github.com/git-for-windows/git/releases
+- Check git available in powershell (cmd)
 - Extract files from pgdbvw_XXX_win.zip into any path.
 
 ### Linux (Debian)
 
 ```sh
+sudo apt-get install git
 gunzip pgdbvw_XXX_all.deb.gz
 sudo dpkg -i pgdbvw_XXX_all.deb
 ```
