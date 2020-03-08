@@ -1,4 +1,8 @@
-﻿CREATE OR REPLACE FUNCTION pgdbvw.pg_get_tabledef(schema_name text, table_name text)
+create schema if not exists pgdbvw;
+--
+-- See for New version: https://github.com/ester41/pg_scripts
+--
+CREATE OR REPLACE FUNCTION pgdbvw.pg_get_tabledef(schema_name text, table_name text)
  RETURNS text
  LANGUAGE plpgsql
 AS $function$
