@@ -63,6 +63,7 @@ pgdbvw.exe
 - Make more smartable code autocomplete.
 - Make breakpoints in debugger - global and local.
 - Generate INSERT/UPDATE/DELETE statement from Result grid.
+- Make remote GIT working
 
 ## Notes
 
