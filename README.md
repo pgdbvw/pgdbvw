@@ -1,5 +1,5 @@
 <!--https://pandao.github.io/editor.md/en.html-->
-[![Release](https://img.shields.io/badge/release-v.1.4--1beta-yellow)](https://github.com/pgdbvw/pgdbvw/releases/tag/v1.4-1beta)
+[![Release](https://img.shields.io/badge/release-v.1.5--2-yellow)](https://github.com/pgdbvw/pgdbvw/releases/tag/v1.5-2)
 [![Ask on Telegram](https://img.shields.io/badge/ask-on%20Telegram-blue)](https://t.me/pgdbvw)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 <!--[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=)-->
