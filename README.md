@@ -50,7 +50,7 @@ pgdbvw.exe
 ```
 ### Linux
 ```sh
-/usr/local/sbin/pgdbvw
+/usr/lib/pgdbvw/pgdbvw
 ```
 
 ## Documentation
